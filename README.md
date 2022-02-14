@@ -1,4 +1,4 @@
-# Ainuddin
+# NeXT Graduate Programme Assessment
 // Java Program to Display Current Date and Time
 import java.util.*;
   
